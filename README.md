@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1161-project-employees-i](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1390-average-selling-price) |
 ## Sliding Window
 |  |
