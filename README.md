@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0596-classes-more-than-5-students) |
+| [0619-biggest-single-number](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0619-biggest-single-number) |
 | [1161-project-employees-i](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1390-average-selling-price) |
 | [1801-average-time-of-process-per-machine](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1801-average-time-of-process-per-machine) |
