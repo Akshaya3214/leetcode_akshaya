@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0619-biggest-single-number) |
 | [1161-project-employees-i](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1390-average-selling-price) |
+| [1670-patients-with-a-condition](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1670-patients-with-a-condition) |
 | [1801-average-time-of-process-per-machine](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1877-find-followers-count) |
