@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0619-biggest-single-number) |
 | [1161-project-employees-i](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1182-game-play-analysis-iv) |
+| [1338-queries-quality-and-percentage](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1415-students-and-examinations) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1664-find-users-with-valid-e-mails) |
