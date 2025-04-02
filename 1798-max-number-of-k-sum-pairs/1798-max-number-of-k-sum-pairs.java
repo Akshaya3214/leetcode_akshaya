@@ -1,6 +1,5 @@
 class Solution {
     public int maxOperations(int[] nums, int k) {
-        int n=nums.length;
         int count=0;
         
         HashMap<Integer, Integer> hs = new HashMap<>();
