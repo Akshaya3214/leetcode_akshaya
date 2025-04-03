@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0196-delete-duplicate-emails) |
 | [0596-classes-more-than-5-students](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0596-classes-more-than-5-students) |
+| [0610-triangle-judgement](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0619-biggest-single-number) |
 | [1161-project-employees-i](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1182-game-play-analysis-iv) |
