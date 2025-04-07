@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1415-students-and-examinations) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1670-patients-with-a-condition) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1877-find-followers-count) |
