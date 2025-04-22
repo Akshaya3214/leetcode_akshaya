@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
@@ -107,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1777-determine-if-two-strings-are-close) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
