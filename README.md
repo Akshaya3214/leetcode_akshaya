@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0217-contains-duplicate) |
+| [0334-increasing-triplet-subsequence](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1319-unique-number-of-occurrences) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0334-increasing-triplet-subsequence) |
 ## Database
 |  |
 | ------- |
