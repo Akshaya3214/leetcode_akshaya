@@ -129,14 +129,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0144-binary-tree-preorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0144-binary-tree-preorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0144-binary-tree-preorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0904-leaf-similar-trees) |
 ## Divide and Conquer
 |  |
 | ------- |
