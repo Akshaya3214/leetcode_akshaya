@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0217-contains-duplicate) |
 | [0334-increasing-triplet-subsequence](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1319-unique-number-of-occurrences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -152,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
