@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0735-asteroid-collision) |
 | [1319-unique-number-of-occurrences](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1319-unique-number-of-occurrences) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1833-find-the-highest-altitude) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0162-find-peak-element) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2428-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
