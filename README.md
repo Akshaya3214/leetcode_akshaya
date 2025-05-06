@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0219-contains-duplicate-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0724-find-pivot-index) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0219-contains-duplicate-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1798-max-number-of-k-sum-pairs) |
