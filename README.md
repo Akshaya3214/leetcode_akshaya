@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2470-removing-stars-from-a-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0219-contains-duplicate-ii) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0136-single-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
