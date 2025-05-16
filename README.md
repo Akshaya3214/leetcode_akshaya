@@ -203,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0948-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
