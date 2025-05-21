@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -206,5 +207,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0172-factorial-trailing-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
