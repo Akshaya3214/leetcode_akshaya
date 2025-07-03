@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0144-binary-tree-preorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0450-delete-node-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0144-binary-tree-preorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0450-delete-node-in-a-bst) |
 | [0904-leaf-similar-trees](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0904-leaf-similar-trees) |
 ## Divide and Conquer
 |  |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0002-add-two-numbers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
