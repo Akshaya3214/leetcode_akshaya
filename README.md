@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0724-find-pivot-index) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0303-range-sum-query-immutable) |
 | [0969-number-of-recent-calls](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1833-find-the-highest-altitude) |
 ## Bit Manipulation
