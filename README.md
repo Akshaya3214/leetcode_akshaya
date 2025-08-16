@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0567-permutation-in-string) |
 | [1250-longest-common-subsequence](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1777-determine-if-two-strings-are-close) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0219-contains-duplicate-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1319-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1798-max-number-of-k-sum-pairs) |
