@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0151-reverse-words-in-a-string](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0567-permutation-in-string) |
 | [1250-longest-common-subsequence](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1250-longest-common-subsequence) |
