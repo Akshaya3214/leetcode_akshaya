@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1250-longest-common-subsequence](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0172-factorial-trailing-zeroes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3830-find-closest-person](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/3830-find-closest-person) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0112-path-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
