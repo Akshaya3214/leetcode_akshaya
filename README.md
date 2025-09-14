@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0075-sort-colors) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0162-find-peak-element) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0948-sort-an-array) |
 ## Matrix
