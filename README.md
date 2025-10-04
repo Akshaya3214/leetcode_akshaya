@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2195-time-needed-to-buy-tickets) |
 | [2428-equal-row-and-column-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2428-equal-row-and-column-pairs) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0908-middle-of-the-linked-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Greedy
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2428-equal-row-and-column-pairs) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Dynamic Programming
 |  |
 | ------- |
