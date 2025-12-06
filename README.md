@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0567-permutation-in-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2470-removing-stars-from-a-string) |
