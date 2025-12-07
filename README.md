@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0217-contains-duplicate) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0152-maximum-product-subarray) |
 | [1250-longest-common-subsequence](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
