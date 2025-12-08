@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0118-pascals-triangle) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0162-find-peak-element) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1966-frequency-of-the-most-frequent-element) |
