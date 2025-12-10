@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2195-time-needed-to-buy-tickets) |
 | [2428-equal-row-and-column-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2428-equal-row-and-column-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3668-restore-finishing-order](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2428-equal-row-and-column-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3668-restore-finishing-order](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
 | ------- |
