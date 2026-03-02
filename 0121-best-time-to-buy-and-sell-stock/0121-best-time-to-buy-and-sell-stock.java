@@ -9,7 +9,7 @@ class Solution {
             }
             else{
                 int currentprofit=price-minprice;
-                maxprofit=Math.max(price-minprice, maxprofit);
+                maxprofit=Math.max(currentprofit, maxprofit);
             }
         }
         return maxprofit;
