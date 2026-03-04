@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0334-increasing-triplet-subsequence) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0948-sort-an-array) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0451-sort-characters-by-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1777-determine-if-two-strings-are-close) |
 ## Tree
