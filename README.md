@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2195-time-needed-to-buy-tickets) |
 | [2428-equal-row-and-column-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2428-equal-row-and-column-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/3683-earliest-time-to-finish-one-task) |
 ## Two Pointers
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2428-equal-row-and-column-pairs) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0189-rotate-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
