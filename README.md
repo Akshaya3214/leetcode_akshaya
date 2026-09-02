@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1319-unique-number-of-occurrences) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1319-unique-number-of-occurrences) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/2428-equal-row-and-column-pairs) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/0948-sort-an-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Akshaya3214/leetcode_akshaya/tree/master/1966-frequency-of-the-most-frequent-element) |
